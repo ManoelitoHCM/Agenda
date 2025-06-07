@@ -5,9 +5,13 @@ Este projeto implementa uma **tabela hash** em Java com tratamento de colisões 
 ## 📁 Estrutura do Projeto
 
 ├── Contato.java # Classe que representa um contato (nome, telefone, email)
+
 ├── No.java # Nó de uma lista encadeada
+
 ├── Lista.java # Lista encadeada para tratar colisões na tabela hash
+
 ├── THash.java # Implementação da tabela hash com hashing e colisão
+
 └── TabelaHashProjeto.java # Classe principal com execução e testes
 
 ## ⚙️ Funcionalidades
